@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExemploLayoutAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="nome">Nome:</string>
+    <string name="sobrenome">Sobrenome:</string>
+    <string name="idade">Idade:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="botaoCadastrar">Cadastrar</string>
+    <string name="botaoCancelar">Cancelar</string>
+    
+    <string name="hintNome">Digite o nome</string>
+    <string name="hintSobrenome">Digite o Sobrenome</string>
+    <string name="hintIdade">Digite a idade</string>
+
+</resources>
